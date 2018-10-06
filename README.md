@@ -1,1 +1,1 @@
-# Columbia-Courses
+# Courses
